@@ -1,2 +1,2 @@
 # sourcecode
-测试代码库
+该github库是练习的demo
